@@ -1,4 +1,4 @@
-# CS 5150 Final Project `GobangAgent`
+# GobangAgent
 
 This repo represents the coursework for CS 5150 Game AI, the Spring 2022 Edition!
 
@@ -16,6 +16,8 @@ This repo represents the coursework for CS 5150 Game AI, the Spring 2022 Edition
 * Gobang is a very popular ancient culture in China, its also called Gomoku and Five in a Row, is an abstract strategy board game. It is traditionally played with Go pieces (black and white stones) on a Go board. It is played using a 15×15 board while in the past a 19×19 board was standard. Because pieces are typically not moved or removed from the board, Gobang may also be played as a paper-and-pencil game. The game is known in several countries under different names. Go bang have different name and play policy, I just want to design a Chinese version. Its only get five chess pieces, and then that player will win. 
 
   
+### Demo Show
+![goBangDemo](https://github.com/AndyFCui/Gobang_AI_Agent__alphaBetaa/assets/10085168/7dc7723b-7d71-4c9f-9734-42ee89eb39fc)
 
 
 ### Game rule
@@ -107,7 +109,7 @@ This repo represents the coursework for CS 5150 Game AI, the Spring 2022 Edition
 
 #### Some shape example:
 
-![image-20220424050227175](C:\Users\Andy Cui\AppData\Roaming\Typora\typora-user-images\image-20220424050227175.png)
+![image](https://github.com/AndyFCui/Gobang_AI_Agent__alphaBetaa/assets/10085168/d674315c-be9e-43d2-8667-e1e0aa354f19)
 
 
 
