@@ -128,16 +128,6 @@ This repo represents the coursework for CS 5150 Game AI, the Spring 2022 Edition
   * PyQt5
 
 
-
-### Example Runs
-
-* ![image-20220423143140617](C:\Users\Andy Cui\AppData\Roaming\Typora\typora-user-images\image-20220423143140617.png)
-
-  
-
-
-
-
 ### Limitations
 
 I think the limitations is that:
